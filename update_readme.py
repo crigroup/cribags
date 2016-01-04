@@ -5,14 +5,14 @@ from pprint import pprint
 from rosbag.bag import _human_readable_frequency, _human_readable_size
 
 header = """
-# rosbags
+# cribags
 ROS bags used by the [Control Robotics Intelligence Group](http://www.ntu.edu.sg/home/cuong/) from the [Nanyang Technological University, Singapore](http://www.ntu.edu.sg/).
 
 ## Clone this repository
 Go to your `git` directory and clone this repository:
 ```
 $ cd ~/git
-$ git clone https://github.com/crigroup/rosbags.git -b hydro-devel
+$ git clone https://github.com/crigroup/cribags.git -b hydro-devel
 ```
 
 ## Update the README
