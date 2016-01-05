@@ -12,7 +12,7 @@ ROS bags used by the [Control Robotics Intelligence Group](http://www.ntu.edu.sg
 Go to your `git` directory and clone this repository:
 ```
 $ cd ~/git
-$ git clone https://github.com/crigroup/cribags.git -b hydro-devel
+$ git clone https://github.com/crigroup/cribags.git
 ```
 
 ## Update the README
